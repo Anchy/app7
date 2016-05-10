@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>proyecto</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>flip</ImageEffect>
+            <ImageFillColor>#1f7dd5</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/WOW Slider/templates/backgnd/vernisage/</ImageTemplate>
+            <ImageTemplateName>Vernisage</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/DAM/aplicacion5/visor/indexwow.html</PublishFileName>
+            <PublishIndex>indexwow.html</PublishIndex>
+            <PublishPath>D:/DAM/aplicacion5/visor</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>vernisage</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/MIKU.png</url>
+                <title>22 abril dia del planeta tierra</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/806146361_1289540.gif</url>
+                <title>La contaminacion</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/21.png</url>
+                <title>Contaminacion</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/735371388_1036421.gif</url>
+                <title>contaminacion</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/amenaza-medio-ambiente-e1361097511991.png</url>
+                <title>amenaza medio ambiente</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/amenazas-del-medio-ambiente-600x329.png</url>
+                <title>amenazas del medio ambiente</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/canada-mantiene.png</url>
+                <title>medio ambiente</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/Colaborar-medio-ambiente.png</url>
+                <title>Colabora con el medio ambiente</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/Como-colaborar-con-medio-ambiente.png</url>
+                <title>Como-colaborar-con-medio-ambiente</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/componentes-del-medio-ambiente.png</url>
+                <title>componentes del medio ambiente</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/cuidado.png</url>
+                <title>cuidado</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/cuidar-medio-ambiente.png</url>
+                <title>cuidar medio ambiente</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/Da-Mundial-del-Medio-Ambiente-5-de-Junio.png</url>
+                <title>Dia  Mundial del Planeta Tierra</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/DIA.png</url>
+                <title>DIA</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/DIA_DEL_MEDIO_AMBIENTE.png</url>
+                <title>DIA DEL Planeta Tierra</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/dia-mundial.png</url>
+                <title>dia mundial</title>
+            </Image>
+            <Image>
+                <url>D:/DAM/aplicacion5/imagenes/22.png</url>
+                <title>22 dia del planeta tierra</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
